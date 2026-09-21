@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡¡Buenas!! Soy Javier Orozco 👋
+### Estudiante en **Desarrollo de Aplicaciones Web**
 
-<!--
-**Nefiri03/Nefiri03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Solo sé que no sé nada."* — Socrates
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SOBRE MÍ
+Estoy cursando actualmente el grado superior de *DAW*, pero mis planes a futuro es especializarme en **ciberseguridad** o hacer una carrera universitaria de ciberseguridad.
+Anteriormente al grado, estaba cursando bachillerato, y mientras lo cursaba me di cuenta que me gustaba la programacion y todo lo relacionado a la informatica, por ende, me apunte al ciclo formativo de *DAW*.
+
+Metas a cumplir:
+~~1. Bachillerato tecnologico.~~
+~~2. B1 en ingles de Cambridge.~~
+3. Ciclo formativo de Desarrollo de Aplicaciones Web (**En proceso**).
+4. Especialización en ciberseguridad.
+
+---
+
+## 🛠️ Herramientas utilizadas
+
+Base de datos:
+*MySQL
+*Apache
+
+
+Programación:
+*Python
+*JavaScript
+*HTML5
+*CSS3
+
+
+
+
