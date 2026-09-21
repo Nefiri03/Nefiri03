@@ -10,10 +10,10 @@ Estoy cursando actualmente el grado superior de *DAW*, pero mis planes a futuro 
 Anteriormente al grado, estaba cursando bachillerato, y mientras lo cursaba me di cuenta que me gustaba la programacion y todo lo relacionado a la informatica, por ende, me apunte al ciclo formativo de *DAW*.
 
 Metas a cumplir:
-1. ~~Bachillerato tecnologico.~~
-2. ~~B1 en ingles de Cambridge.~~
-3. Ciclo formativo de Desarrollo de Aplicaciones Web (**En proceso**).
-4. Especialización en ciberseguridad.
+- [x] ~~Bachillerato tecnologico.~~
+- [x] ~~B1 en ingles de Cambridge.~~
+- [] Ciclo formativo de Desarrollo de Aplicaciones Web (**En proceso**).
+- [] Especialización en ciberseguridad.
 
 ---
 
