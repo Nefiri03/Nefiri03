@@ -12,8 +12,8 @@ Anteriormente al grado, estaba cursando bachillerato, y mientras lo cursaba me d
 Metas a cumplir:
 - [x] ~~Bachillerato tecnologico.~~
 - [x] ~~B1 en ingles de Cambridge.~~
-- [] Ciclo formativo de Desarrollo de Aplicaciones Web (**En proceso**).
-- [] Especialización en ciberseguridad.
+- [ ] Ciclo formativo de Desarrollo de Aplicaciones Web (**En proceso**).
+- [ ] Especialización en ciberseguridad.
 
 ---
 
