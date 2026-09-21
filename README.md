@@ -20,15 +20,15 @@ Metas a cumplir:
 ## 🛠️ Herramientas utilizadas
 
 Base de datos:
-*MySQL
-*Apache
+* MySQL
+* Apache
 
 
 Programación:
-*Python
-*JavaScript
-*HTML5
-*CSS3
+* Python
+* JavaScript
+* HTML5
+* CSS3
 
 
 
