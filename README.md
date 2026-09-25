@@ -35,6 +35,15 @@ Programación:
 2. Aprender la gestion en algun tipo de lenguaje de base de datos-
 3. Hacer y desplegar mi primera aplicación.
 
+## 🚀 Estado de aprendizaje en lenguajes
+
+| Estado | Tecnologías |
+| :--- | :---: |
+| Completado | Python, MySQL, HTML5 |
+| En desarrollo | PHP, Javascript |
+| Planificado | CSS3 |
+
+
 
 
 
