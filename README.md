@@ -6,8 +6,9 @@
 ---
 
 ## SOBRE MÍ
-Estoy cursando actualmente el grado superior de `DAW`, pero mis planes a futuro es especializarme en **ciberseguridad** o hacer una carrera universitaria de ciberseguridad.
-Anteriormente al grado, estaba cursando bachillerato, y mientras lo cursaba me di cuenta que me gustaba la programacion y todo lo relacionado a la informatica, por ende, me apunte al ciclo formativo de `DAW`.
+Estoy cursando actualmente el grado superior de *DAW*, pero mis planes a futuro es especializarme en **ciberseguridad** o hacer una carrera universitaria de ciberseguridad.
+Anteriormente al grado, estaba cursando bachillerato, y mientras lo cursaba me di cuenta que me gustaba la programacion y todo lo relacionado a la informatica, por ende, me apunte al ciclo formativo de *DAW*.
+Para trabajar en el aula yo utilizo `Ubuntu Linux`
 
 Metas a cumplir:
 - [x] ~~Bachillerato tecnologico.~~
@@ -37,11 +38,15 @@ Programación:
 
 ## 🚀 Estado de aprendizaje en lenguajes
 
-| Estado | Tecnologías |
-| :--- | :---: |
-| Completado | Python, MySQL, HTML5 |
-| En desarrollo | PHP, Javascript |
-| Planificado | CSS3 |
+| Aprendido en... | Estado | Tecnologías |
+| :--- | :--- | :---: |
+| 1ºDAW | Completado | Python, MySQL, HTML5 |
+| 2ºDAW | En desarrollo | PHP, Javascript |
+| Cuenta propia | Planificado | CSS3 |
+
+## 📫 Contacto
+
+**Correo Institucional:** `joropom1105@g.educaand.es`
 
 
 
