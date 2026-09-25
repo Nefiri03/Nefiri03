@@ -30,11 +30,15 @@ Programación:
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 * ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ## 🎯 Plan de Aprendizaje
 
 1. Dominar **HTML5, CSS3**.
 2. Aprender la gestion en algun tipo de lenguaje de base de datos-
 3. Hacer y desplegar mi primera aplicación.
+
+---
 
 ## 🚀 Estado de aprendizaje en lenguajes
 
@@ -43,6 +47,8 @@ Programación:
 | 1ºDAW | Completado | Python, MySQL, HTML5 |
 | 2ºDAW | En desarrollo | PHP, Javascript |
 | Cuenta propia | Planificado | CSS3 |
+
+---
 
 ## 📫 Contacto
 
